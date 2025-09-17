@@ -238,3 +238,14 @@ If you use this pipeline in your research, please cite:
 1. The GBmap dataset: Ruiz-Moreno et al. (2025)
 2. The core analysis packages listed above, particularly Seurat for single-cell analysis
 3. Any specific methods/packages used in your analysis (DESeq2, CellChat, monocle3, etc.)
+
+### Special Thanks
+I would like to express our sincere gratitude to:
+
+**Professor Zhan Ren-Ya**, Honorary Director of the Department of Neurosurgery, The First Affiliated Hospital, Zhejiang University School of Medicine.
+
+Senior colleagues from the department: **Jin Lin-Chun**, **Yan Min**, **Shen Yuan-Yuan**, **Zhang Chao**, **Zhu Yu**, and other mentors.
+
+Fellow researcher **He Hai-Feng** and all other members of **Professor Zhan's research team**.
+
+**All medical staff** in the **Neurosurgery wards at both Qingchun Campus and Zhijiang Campus** of The First Affiliated Hospital of Zhejiang University.
