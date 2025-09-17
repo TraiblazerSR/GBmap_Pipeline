@@ -20,8 +20,14 @@ The pipeline is designed to work with the GBmap dataset, a comprehensive single-
 - Pseudotime analyses including comparative high/low modeling
 
 ### Data
-The GBmap dataset can be downloaded from:  
-`https://cellxgene.cziscience.com/collections/999f2a15-3d7e-440b-96ae-2c806799c08c`  
+The GBmap dataset can be downloaded from:
+
+**Primary source (CELLxGENE):**
+`https://cellxgene.cziscience.com/collections/999f2a15-3d7e-440b-96ae-2c806799c08c`
+
+**Alternative download (Baidu Netdisk):**
+- **Link:** https://pan.baidu.com/s/1DHWJ1QDanUl0L1G6qc_NxA?pwd=5ws4
+- **Passcode:** 5ws4
 
 **Note:** Download the data in h5ad format and convert to RDS format before use. Place all data files in the `raw_data_to_read/data_GBmap/` directory.
 
