@@ -1,0 +1,80 @@
+# R-specific files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+*.rds
+*.Rda
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python (if any)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Output directories (these contain generated results)
+step*/processed/
+step*/results/
+step*/figures/
+step*/logs/
+
+# Large data files
+*.h5ad
+*.loom
+*.h5
+*.mtx
+*.tsv.gz
+*.csv.gz
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+*.log
+
+# R Markdown
+*.html
+*.md.html
+*_cache/
+*_files/
+
+# Package development
+*.tar.gz
+*.Rcheck/
+
+# Environment files (may contain sensitive info)
+.env
+.env.local
+.env.*.local
+
+# Node modules (if any)
+node_modules/
+
+# Build outputs
+dist/
+build/

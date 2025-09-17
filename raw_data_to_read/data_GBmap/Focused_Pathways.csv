@@ -1,0 +1,95 @@
+Immune,Allograft Rejection
+Immune,Coagulation
+Immune,Complement
+Immune,Il6 Jak Stat3 Signaling
+Immune,Inflammatory Response
+Immune,Interferon Alpha Response
+Immune,Interferon Gamma Response
+Immune,Peroxisome
+Metabolism,Adipogenesis
+Metabolism,Amino Acid Metabolism
+Metabolism,Bile Acid Metabolism
+Metabolism,Cholesterol Homeostasis
+Metabolism,Carbohydrate Metabolism
+Metabolism,Choline And Betaine Metabolism
+Metabolism,Coenzyme A Metabolism
+Metabolism,Coenzyme Q Metabolism
+Metabolism,Copper Metabolism
+Metabolism,Fatty Acid Metabolism
+Metabolism,Fatty Acid Oxidation
+Metabolism,Glycolysis
+Metabolism,Gluconeogenesis
+Metabolism,Glutamate Metabolism
+Metabolism,Glycine Metabolism
+Metabolism,Heme Metabolism
+Metabolism,Lipid Metabolism
+Metabolism,Nad Biosynthesis And Metabolism
+Metabolism,Nucleotide Metabolism
+Metabolism,Oxidative Phosphorylation
+Metabolism,Phospholipid Metabolism
+Metabolism,Ros And Glutathione Metabolism
+Metabolism,Sulfur Metabolism
+Metabolism,Vitamin Metabolism
+Metabolism,Xenobiotic Metabolism
+Signaling,Androgen Response
+Signaling,Angiogenesis
+Signaling,Apical Junction
+Signaling,Epithelial Mesenchymal Transition
+Signaling,Estrogen Response Early
+Signaling,Estrogen Response Late
+Signaling,Hedgehog Signaling
+Signaling,Hypoxia
+Signaling,Il2 Stat5 Signaling
+Signaling,Kras Signaling Dn
+Signaling,Kras Signaling Up
+Signaling,Mtorc1 Signaling
+Signaling,Myogenesis
+Signaling,Notch Signaling
+Signaling,Pi3k Akt Mtor Signaling
+Signaling,Protein Secretion
+Signaling,Reactive Oxygen Species Pathway
+Signaling,Tgf Beta Signaling
+Signaling,Tnfa Signaling Via Nfkb
+Signaling,Unfolded Protein Response
+Signaling,Wnt Beta Catenin Signaling
+Proliferation,Dna Repair
+Proliferation,E2f Targets
+Proliferation,G2m Checkpoint
+Proliferation,Mitotic Spindle
+Proliferation,Myc Targets V1
+Proliferation,Myc Targets V2
+Proliferation,P53 Pathway
+CellDeath,Apoptosis
+CellDeath,Cuproptosis
+CellDeath,Ferroptosis
+CellDeath,Necroptosis
+CellDeath,Necrosis
+CellDeath,Pyroptosis
+Mitochondria,Calcium Cycle
+Mitochondria,Calcium Homeostasis
+Mitochondria,Calcium Uniporter
+Mitochondria,Cardiolipin Synthesis
+Mitochondria,Chaperones
+Mitochondria,Complex I
+Mitochondria,Complex Ii
+Mitochondria,Complex Iii
+Mitochondria,Complex Iv
+Mitochondria,Cristae Formation
+Mitochondria,Cytochromes
+Mitochondria,Electron Carriers
+Mitochondria,Fe−S Cluster Biosynthesis
+Mitochondria,Fission
+Mitochondria,Fusion
+Mitochondria,Intramitochondrial Membrane Interactions Iron Homeostasis
+Mitochondria,Micos Complex
+Mitochondria,Mitochondrial Biogenesis
+Mitochondria,Mitochondrial Permeability Transition Pore Mitochondrial Surveillance
+Mitochondria,Mitophagy
+Mitochondria,Oxphos
+Mitochondria,Organelle Contact Sites
+Mitochondria,Proteases
+Mitochondria,Protein Homeostasis
+Mitochondria,Respirasome Assembly
+Mitochondria,Tca Cycle
+Mitochondria,Mtdna Maintenance
+,

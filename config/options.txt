@@ -1,0 +1,43 @@
+project_name=GBmap_Pipeline_v1.0
+
+# Data
+core_data_path=raw_data_to_read/data_GBmap/core.rds
+annotation_cross_table_step1_path=raw_data_to_read/data_GBmap/annotation_cross_table_TAMs.csv
+annotation_cross_table_cellchat_path=raw_data_to_read/data_GBmap/annotation_cross_table_cellchat_EGFR.csv
+annotation_cross_table_monocle_path=raw_data_to_read/data_GBmap/annotation_cross_table_monocle.csv
+focused_pathways_path=raw_data_to_read/data_GBmap/Focused_Pathways.csv
+
+# Target gene and cells
+target_gene_symbol=EGFR
+target_gene_ensembl=ENSG00000073756
+target_gene_aliases=EGFR,ERBB1
+target_cell_types=Endothelial,TAM-BDM,TAM-MG
+
+# Step 6 specific target cells (may differ from general target_cell_types)
+step6_target_cell_types=Endothelial,TAM-BDM,TAM-MG
+
+# Grouping method across steps (GMM | median | both)
+group_methods=both
+both_primary_method=GMM
+
+# Step 5 (CellChat) specific options
+step5_group_methods=both
+step5_both_primary_method=median
+# Comma-separated: use tokens among unsplit, allsplit, and any target cell types
+step5_levels_to_run=unsplit,Endothelial,TAM-BDM,TAM-MG,allsplit
+
+# GO ontologies to run in step4 (comma-separated; supports BP,MF,CC,all)
+go_ontologies=all
+
+# GSEA scope for cell types in step4 (all | focused)
+gsea_celltypes_scope=focused
+
+# Expression percentage threshold (> value counts as expressed)
+expression_threshold=0
+
+# Gene ID handling
+gene_id_priority=symbol,ensembl
+
+# Reproducibility and resources
+seed=1234
+workers=4

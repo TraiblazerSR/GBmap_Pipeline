@@ -1,0 +1,55 @@
+annotation_level_3,annotation_level_4,cell_count,annotation_custom
+AC-like,AC-like,46986,AC-like
+AC-like,AC-like Prolif,3861,AC-like
+Astrocyte,Astrocyte,173,Astrocyte
+B cell,B cell,1250,B cell
+CD4/CD8,CD8 cytotoxic,22683,CD8T
+CD4/CD8,CD8 EM,9481,CD8T
+CD4/CD8,Stress sig,5304,Tex
+CD4/CD8,CD4 INF,4736,CD4T
+CD4/CD8,CD4 rest,3988,CD4T
+CD4/CD8,Reg T,3267,Treg
+CD4/CD8,Prolif T,2583,Tprolif
+CD4/CD8,CD8 NK sig,2215,NKT
+DC,cDC2,2470,DC
+DC,DC3,843,DC
+DC,DC1,275,DC
+DC,pDC,174,DC
+DC,cDC1,138,DC
+DC,DC2,61,DC
+Endothelial,Endo capilar,271,Endothelial
+Endothelial,Endo arterial,227,Endothelial
+Endothelial,Tip-like,175,Endothelial
+MES-like,MES-like hypoxia/MHC,22749,MES-like
+MES-like,MES-like hypoxia independent,10418,MES-like
+Mast,Mast,373,Mast
+Mono,Mono naive,5915,Mono
+Mono,Mono anti-infl,5618,Mono
+Mono,Mono hypoxia,2682,Mono
+Mural cell,Pericyte,650,Pericyte
+Mural cell,Scavenging pericyte,180,Pericyte
+Mural cell,SMC,174,SMC
+Mural cell,Scavenging endothelial,127,Endothelial
+Mural cell,SMC prolif,92,SMC
+Mural cell,VLMC,83,Mural
+Mural cell,SMC COL,73,SMC
+Mural cell,Perivascular fibroblast,39,Mural
+NK,NK,2489,NK
+NPC-like,NPC-like OPC,11234,NPC-like
+NPC-like,NPC-like neural,6650,NPC-like
+NPC-like,NPC-like Prolif,4233,NPC-like
+Neuron,Neuron,22,Neuron
+OPC,OPC,496,OPC
+OPC-like,OPC-like,18134,OPC-like
+OPC-like,OPC-like Prolif,3256,OPC-like
+Oligodendrocyte,Oligodendrocyte,12481,Oligodendrocyte
+Plasma B,Plasma B,572,Plasma B
+RG,RG,2807,RG
+TAM-BDM,TAM-BDM anti-infl,36800,TAM-M2
+TAM-BDM,TAM-BDM hypoxia/MES,10329,TAM-M2
+TAM-BDM,TAM-BDM INF,8418,TAM-M1
+TAM-BDM,TAM-BDM MHC,5587,TAM-M1
+TAM-MG,TAM-MG aging sig,25688,TAM-M2
+TAM-MG,TAM-MG pro-infl II,12998,TAM-M1
+TAM-MG,TAM-MG pro-infl I,10986,TAM-M1
+TAM-MG,TAM-MG prolif,5050,TAM-M2

@@ -1,0 +1,55 @@
+annotation_level_3,annotation_level_4,cell_count,annotation_cellchat
+AC-like,AC-like,46986,Malign
+AC-like,AC-like Prolif,3861,Malign
+Astrocyte,Astrocyte,173,Glia
+B cell,B cell,1250,Lymphoctyes
+CD4/CD8,CD8 cytotoxic,22683,Lymphoctyes
+CD4/CD8,CD8 EM,9481,Lymphoctyes
+CD4/CD8,Stress sig,5304,Lymphoctyes
+CD4/CD8,CD4 INF,4736,Lymphoctyes
+CD4/CD8,CD4 rest,3988,Lymphoctyes
+CD4/CD8,Reg T,3267,Lymphoctyes
+CD4/CD8,Prolif T,2583,Lymphoctyes
+CD4/CD8,CD8 NK sig,2215,Lymphoctyes
+DC,cDC2,2470,Other Myeloid Immune
+DC,DC3,843,Other Myeloid Immune
+DC,DC1,275,Other Myeloid Immune
+DC,pDC,174,Other Myeloid Immune
+DC,cDC1,138,Other Myeloid Immune
+DC,DC2,61,Other Myeloid Immune
+Endothelial,Endo capilar,271,Endothelial
+Endothelial,Endo arterial,227,Endothelial
+Endothelial,Tip-like,175,Endothelial
+MES-like,MES-like hypoxia/MHC,22749,Malign
+MES-like,MES-like hypoxia independent,10418,Malign
+Mast,Mast,373,Other Myeloid Immune
+Mono,Mono naive,5915,Other Myeloid Immune
+Mono,Mono anti-infl,5618,Other Myeloid Immune
+Mono,Mono hypoxia,2682,Other Myeloid Immune
+Mural cell,Pericyte,650,Mural
+Mural cell,Scavenging pericyte,180,Mural
+Mural cell,SMC,174,Mural
+Mural cell,Scavenging endothelial,127,Endothelial
+Mural cell,SMC prolif,92,Mural
+Mural cell,VLMC,83,Mural
+Mural cell,SMC COL,73,Mural
+Mural cell,Perivascular fibroblast,39,Mural
+NK,NK,2489,Lymphoctyes
+NPC-like,NPC-like OPC,11234,Malign
+NPC-like,NPC-like neural,6650,Malign
+NPC-like,NPC-like Prolif,4233,Malign
+Neuron,Neuron,22,Neuron
+OPC,OPC,496,Glia
+OPC-like,OPC-like,18134,Malign
+OPC-like,OPC-like Prolif,3256,Malign
+Oligodendrocyte,Oligodendrocyte,12481,Glia
+Plasma B,Plasma B,572,Lymphoctyes
+RG,RG,2807,Glia
+TAM-BDM,TAM-BDM anti-infl,36800,TAM-BDM
+TAM-BDM,TAM-BDM hypoxia/MES,10329,TAM-BDM
+TAM-BDM,TAM-BDM INF,8418,TAM-BDM
+TAM-BDM,TAM-BDM MHC,5587,TAM-BDM
+TAM-MG,TAM-MG aging sig,25688,TAM-MG
+TAM-MG,TAM-MG pro-infl II,12998,TAM-MG
+TAM-MG,TAM-MG pro-infl I,10986,TAM-MG
+TAM-MG,TAM-MG prolif,5050,TAM-MG
