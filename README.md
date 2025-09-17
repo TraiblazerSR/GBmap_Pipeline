@@ -244,8 +244,8 @@ I would like to express my sincere gratitude to:
 
 **Professor Zhan Ren-Ya**, Honorary Director of the Department of Neurosurgery, The First Affiliated Hospital, Zhejiang University School of Medicine.
 
-Senior colleagues from the department: **Jin Lin-Chun**, **Yan Min**, **Shen Yuan-Yuan**, **Zhang Chao**, **Zhu Yu**, and other mentors.
+Senior colleagues from the department: **Jin Lin-Chun/Kim**, **Yan Min**, **Shen Yuan-Yuan**, **Zhang Chao**, **Zhu Yu**, and other mentors.
 
-Fellow researcher **He Hai-Feng** and all other members of **Professor Zhan's research team**.
+Fellow researcher **He Hai-Feng**, **MUNGUR Rajneesh** and all other members of **Professor Zhan's research team** and **Neurosurgery Basic Lab of Prof.Zhan/Dr.Jin**.
 
 **All medical staff** in the **Neurosurgery wards at both Qingchun Campus and Zhijiang Campus** of The First Affiliated Hospital of Zhejiang University.
