@@ -240,7 +240,7 @@ If you use this pipeline in your research, please cite:
 3. Any specific methods/packages used in your analysis (DESeq2, CellChat, monocle3, etc.)
 
 ### Special Thanks
-I would like to express our sincere gratitude to:
+I would like to express my sincere gratitude to:
 
 **Professor Zhan Ren-Ya**, Honorary Director of the Department of Neurosurgery, The First Affiliated Hospital, Zhejiang University School of Medicine.
 
