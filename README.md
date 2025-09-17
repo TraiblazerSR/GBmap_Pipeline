@@ -5,7 +5,7 @@ GBmap is a reproducible, stepwise single-cell RNA-seq analysis pipeline centered
 
 The pipeline is designed to work with the GBmap dataset, a comprehensive single-cell and spatial atlas of IDH-wildtype glioblastoma (Ruiz-Moreno et al., 2025).
 
-- Project root: `/data/y1005/GBmap_Pipeline_v1.0`
+- Project root: `/GBmap_Pipeline_v1.0`
 - Global config: `config/options.txt`
 - Shared helpers: `config/common_utils.R`
 - Steps: `step0` … `step6`, each with `R_scripts/`, `processed/`, `results/`, `figures/`, and `logs/` as applicable
@@ -30,8 +30,8 @@ The GBmap dataset can be downloaded from:
   - **Link:** https://pan.baidu.com/s/1DHWJ1QDanUl0L1G6qc_NxA?pwd=5ws4
   - **Passcode:** 5ws4
 - **extended.h5ad**
-  - **Link:** 
-  - **Passcode:** 
+  - **Link:** https://pan.baidu.com/s/1v58pmvCRCAWJjarAsWxIBA?pwd=apdq
+  - **Passcode:** apdq
 
 **Note:** Download the data in h5ad format and convert to RDS format before use. Place all data files in the `raw_data_to_read/data_GBmap/` directory.
 
@@ -240,7 +240,7 @@ If you use this pipeline in your research, please cite:
 3. Any specific methods/packages used in your analysis (DESeq2, CellChat, monocle3, etc.)
 
 ### Special Thanks
-I would like to express our sincere gratitude to:
+I would like to express my sincere gratitude to:
 
 **Professor Zhan Ren-Ya**, Honorary Director of the Department of Neurosurgery, The First Affiliated Hospital, Zhejiang University School of Medicine.
 
