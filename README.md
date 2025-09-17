@@ -19,6 +19,17 @@ The pipeline is designed to work with the GBmap dataset, a comprehensive single-
 - Rich CellChat analysis across unsplit and split annotation levels
 - Pseudotime analyses including comparative high/low modeling
 
+### Special Thanks
+I would like to express my sincere gratitude to:
+
+**Professor Zhan Ren-Ya**, Honorary Director of the Department of Neurosurgery, The First Affiliated Hospital, Zhejiang University School of Medicine.
+
+Senior colleagues from the department: **Jin Lin-Chun/Kim**, **Yan Min**, **Shen Yuan-Yuan**, **Zhang Chao**, **Zhu Yu**, and other mentors.
+
+Fellow researcher **He Hai-Feng**, **MUNGUR Rajneesh** and all other members of **Professor Zhan's research team** and **Neurosurgery Basic Lab of Prof.Zhan/Dr.Jin**.
+
+**All medical staff** in the **Neurosurgery wards at both Qingchun Campus and Zhijiang Campus** of The First Affiliated Hospital of Zhejiang University.
+
 ### Data
 The GBmap dataset can be downloaded from:
 
@@ -238,14 +249,3 @@ If you use this pipeline in your research, please cite:
 1. The GBmap dataset: Ruiz-Moreno et al. (2025)
 2. The core analysis packages listed above, particularly Seurat for single-cell analysis
 3. Any specific methods/packages used in your analysis (DESeq2, CellChat, monocle3, etc.)
-
-### Special Thanks
-I would like to express my sincere gratitude to:
-
-**Professor Zhan Ren-Ya**, Honorary Director of the Department of Neurosurgery, The First Affiliated Hospital, Zhejiang University School of Medicine.
-
-Senior colleagues from the department: **Jin Lin-Chun/Kim**, **Yan Min**, **Shen Yuan-Yuan**, **Zhang Chao**, **Zhu Yu**, and other mentors.
-
-Fellow researcher **He Hai-Feng**, **MUNGUR Rajneesh** and all other members of **Professor Zhan's research team** and **Neurosurgery Basic Lab of Prof.Zhan/Dr.Jin**.
-
-**All medical staff** in the **Neurosurgery wards at both Qingchun Campus and Zhijiang Campus** of The First Affiliated Hospital of Zhejiang University.
